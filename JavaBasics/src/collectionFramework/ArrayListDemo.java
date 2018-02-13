@@ -6,7 +6,7 @@ public class ArrayListDemo {
 
 	public static void main(String[] args) {
 		ArrayList<String> cities = new ArrayList<>();
-
+		//Adding a comment in line number 9
 		cities.add("Paris");
 		cities.add("London");
 		cities.add("Vijayawada");
